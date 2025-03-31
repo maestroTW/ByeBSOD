@@ -1,3 +1,4 @@
 ## Goodbye BSOD
 
-Farewell to the legendary Blue Screen of Death (BSOD), soon to be replaced by a green screen of errors. The BSOD has long been synonymous with system crashes and troubleshooting woes, leaving many users frustrated yet oddly familiar with its presence. But fear not! For those seeking a nostalgic experience, our repository holds a collection of `main` files across various programming languages, each designed to simulate the iconic blue screen safely, causing no harm to your system. Pay tribute to the past while embracing the future—a fitting send-off to an old friend.
+Farewell to the legendary Blue Screen of Death (BSOD), whose days are numbered as Microsoft plans to simplify it, stripping away its iconic status. Though the BSOD may lose some of its character, its legacy lives on. In our repository, you can find main files in different programming languages that recreate the classic blue screen without harming your system—a nod to the error screen's enduring place in tech history.
+
